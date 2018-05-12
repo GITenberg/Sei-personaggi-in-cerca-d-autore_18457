@@ -23,6 +23,8 @@ description: "Six Characters in Search of an Author (Italian: Sei personaggi in 
   \ its American premiere in 1922 on Broadway at the Princess Theatre and was performed\
   \ for over a year off-Broadway at the Martinique Theatre beginning in 1963.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18457#Sei-personaggi-in-cerca-d-autore
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2006-05-27'
 gutenberg_type: Text
